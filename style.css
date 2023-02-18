@@ -6,6 +6,7 @@
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Montserrat';
+    text-decoration: none;
 }
 
 .get_started {
@@ -117,6 +118,8 @@
 
 .sec3_title {
     padding-bottom: 100px;
+    text-align: center;
+    margin-top: 50px;
 }
 
 .sec3 {
@@ -212,4 +215,17 @@ footer {
 
 .footer3_p1 {
     margin-right: 200px;
+    display: block;
+}
+
+.footer3_p1 a {
+    display: block;
+    color: white;
+    padding-bottom: 20px;
+}
+
+.footer3_p2 a {
+    display: block;
+    color: white;
+    padding-bottom: 20px;
 }
